@@ -1,0 +1,16 @@
+DELETION
+models
+reverse
+json
+LogEntry
+ADDITION
+timezone
+ContentType
+settings
+gettext
+_
+get_text_list
+CHANGE
+quote
+NoReverseMatch
+LogEntryManager
